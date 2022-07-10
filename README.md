@@ -1,5 +1,6 @@
 # Seattle-Airbnb
 EDA and Linear Regression with Seattle Airbnb data
+medium post https://medium.com/@nathycardoso32/data-analysis-using-airbnb-seattle-dataset-c7f9af72b3b9
 
 
 Hello : )
