@@ -18,7 +18,7 @@ but first, you <b>need to install some libs</b> let's go?
 if you will run local, get sure you have libs below installed: numpy, pandas, matplotlib, plotly, sklearn. It's easier if you run on Anaconda with python version 3.*
 or run the entire notebook on kaggle :) 
 
-###File Descriptions
+### File Descriptions
 in this repository you will found 3 files:
 1) the notebook with python code 
 2) calendar.csv dataset
