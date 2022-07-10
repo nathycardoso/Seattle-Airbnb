@@ -21,8 +21,11 @@ or run the entire notebook on kaggle :)
 ### File Descriptions
 in this repository you will found 3 files:
 1) the notebook with python code 
+    - you need to have knowledge in python, pandas and familiarity with data analysis
 2) calendar.csv dataset
+    - for each listings in airbnb, we have a line by day on entire year to know the availability 
 3) listings.csv dataset
+    - one listings by line with information about the host, the house, the price and more.
 
 ### Results
 soon on medium post
