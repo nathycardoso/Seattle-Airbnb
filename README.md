@@ -28,7 +28,14 @@ in this repository you will found 3 files:
     - one listings by line with information about the host, the house, the price and more.
 
 ### Results
-soon on medium post
+
+a little sumary about this project:
+        
+1) if you go to visit seattle, it's good to have 100$ to rent an accommodation. Some neighborhoods it's more expensive but 100$ its the price of 50% of listings
+2) in the end of year we have more listings available. this can be caused by the winter thats come to the country.
+3) some characteristics influences directly on listing price, like accommodates, guests_included, bathrooms and beds.
+
+more on medium post. click on this link 
 
 ### Licensing, Authors, Acknowledgements
 you can use for study only
