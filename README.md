@@ -1,6 +1,6 @@
 # Seattle-Airbnb
 EDA and Linear Regression with Seattle Airbnb data
-medium post https://medium.com/@nathycardoso32/data-analysis-using-airbnb-seattle-dataset-c7f9af72b3b9
+medium post https://medium.com/@nathalia.cardoso/data-analysis-using-airbnb-seattle-dataset-c7f9af72b3b9
 
 
 Hello : )
@@ -36,7 +36,7 @@ a little sumary about this project:
 2) in the end of year we have more listings available. this can be caused by the winter thats come to the country.
 3) some characteristics influences directly on listing price, like accommodates, guests_included, bathrooms and beds.
 
-more on medium post. click on this link https://medium.com/@nathycardoso32/data-analysis-using-airbnb-seattle-dataset-c7f9af72b3b9
+more on medium post. click on this link https://medium.com/@nathalia.cardoso/data-analysis-using-airbnb-seattle-dataset-c7f9af72b3b9
 
 ### Licensing, Authors, Acknowledgements
 you can use for study only
